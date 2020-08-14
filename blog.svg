@@ -1,9 +1,7 @@
 <svg width="960" height="850" xmlns="http://www.w3.org/2000/svg">
-  <g transform="translate(300, 0) rotate(20)">
-    <foreignObject x="10" y="10" width="800" height="800">
+   <foreignObject width="100%" height="100%">
       <body xmlns="http://www.w3.org/1999/xhtml">
-        <iframe src="http://starkravingfinkle.org/blog" style="width:700px;height:700px"></iframe>
+        <object data="https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/movingcart_1.svg" type=""></object>
       </body>
     </foreignObject>
-  </g>
 </svg>
