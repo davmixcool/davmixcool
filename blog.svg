@@ -1,7 +1,7 @@
-<svg width="960" height="850" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg">
    <foreignObject width="100%" height="100%">
-      <body xmlns="http://www.w3.org/1999/xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
         <object data="https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/movingcart_1.svg" type=""></object>
-      </body>
+      </div>
     </foreignObject>
 </svg>
