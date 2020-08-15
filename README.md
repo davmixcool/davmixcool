@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Blog](./blog.svg)
+![](https://raw.githubusercontent.com/davmixcool/davmixcool/7f18ee31a7021198dcc4930e78ed3fa79573e219/blog.svg)
 
 <!--
 **davmixcool/davmixcool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
