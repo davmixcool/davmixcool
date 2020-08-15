@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/davmixcool/davmixcool/3b741b3034292fa08ccfa80caeec5dd37ea68af1/blog.svg)
+![](https://snapilabs.com/wp-content/uploads/2020/07/teams-8-scaled.jpg)
 
 ### I love creating softwares, I love UI implementations as well as frontend and backend integrations. Aside work, I spend most of my time in RND and also contributing to the open-source community.
 
