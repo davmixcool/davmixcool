@@ -7,9 +7,13 @@ cryptocurrency expert who loves to build products that help businesses and peopl
 Connect with me on:
 
 👉 [Medium](https://medium.com/@iamdavidoti): @iamdavidoti
+
 👉 [LinkedIn](https://www.linkedin.com/in/iamdavidoti/): @iamdavidoti
+
 👉 [Twitter](https://twitter.com/iamdavidoti): @iamdavidoti
+
 👉 [ClubHouse](https://www.clubhouse.com/@iamdavidoti?utm_source=clubhouse&utm_medium=share_profile&utm_campaign=F0ZH5INopcGWomDEp3G5UA-35096): @iamdavidoti
+
 👉 [Website](https://davidoti.com)
 
 ### Hack with David
