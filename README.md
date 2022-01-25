@@ -12,6 +12,8 @@ Connect with me on:
 
 👉 [Twitter](https://twitter.com/iamdavidoti): @iamdavidoti
 
+👉 [Instagram](https://instagram.com/iamdavidoti): @iamdavidoti
+
 👉 [ClubHouse](https://www.clubhouse.com/@iamdavidoti?utm_source=clubhouse&utm_medium=share_profile&utm_campaign=F0ZH5INopcGWomDEp3G5UA-35096): @iamdavidoti
 
 👉 [Website](https://davidoti.com)
