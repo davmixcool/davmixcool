@@ -4,6 +4,10 @@
 I'm a software engineer, digital marketer, fitness enthusiast  and
 cryptocurrency expert who loves to build products that help businesses and people grow.
 
+I am on a mission to build micro-saas products from 0$ to $1k MRR 🚀
+
+Follow my journey on Twitter @iamdavidoti
+
 Connect with me on:
 
 👉 [Medium](https://medium.com/@iamdavidoti): @iamdavidoti
@@ -18,9 +22,7 @@ Connect with me on:
 
 👉 [Website](https://davidoti.com)
 
-### Hack with David
 
-Coming soon..
 
 ### Stay In touch
 
